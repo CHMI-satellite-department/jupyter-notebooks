@@ -1,2 +1,2 @@
 # jupyter-notebooks
-Repository with jupyter notebooks
+Repository with various jupyter notebooks
